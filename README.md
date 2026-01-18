@@ -123,4 +123,4 @@ Monitors light intensity with a photoresistor and controls Green, Yellow, and Re
 
 ---
 
-- **Henry Luis Pula** 
+- **Denys Carl Monzon** 
